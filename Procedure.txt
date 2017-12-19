@@ -1,0 +1,10 @@
+Analysis of DATA IRM_Marche : MAIN / PIED (group 40-60)
+
+Procedure:
+1- Calculate confounds on non normalized data (name script: IRM_Marche_Import4060)
+2 - Parcelate data in BASC (444 or 524)
+3 - Select regions in motor mask 
+3 - Classification with Cross Validation 
+4 - Identification regions : Figures & Tables
+
+
